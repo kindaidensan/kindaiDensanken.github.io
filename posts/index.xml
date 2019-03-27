@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 近畿大学電子計算機研究会</title>
+    <link>http://kindai-csg.com/posts/</link>
+    <description>Recent content in Posts on 近畿大学電子計算機研究会</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Mar 2019 20:16:48 +0900</lastBuildDate>
+    
+	<atom:link href="http://kindai-csg.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>http://kindai-csg.com/posts/test/</link>
+      <pubDate>Wed, 27 Mar 2019 20:16:48 +0900</pubDate>
+      
+      <guid>http://kindai-csg.com/posts/test/</guid>
+      <description>test テスト投稿やぞ</description>
+    </item>
+    
+  </channel>
+</rss>
